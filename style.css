@@ -86,6 +86,7 @@ button:hover{
   flex: 1 1 0%; 
 }
 .logo-link{
+  text-decoration: none;
   text-align: center;
 }
 .text-block{
